@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-j%C3%BAnior-a17542218/)
 
-![Maurício Júnior GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciojr88&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciojr88&layout=compact)
+![Maurício Júnior GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciojr88&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciojr88&hide_progress=true)
 
 ## Tecnologias que eu uso no dia a dia
 <div style="display: inline_block"><br/>
