@@ -1,6 +1,8 @@
 ## Hi there 👋🏿
 
 I am a systems developer with experience in Frontend with Angular, Bootstrap, Figma and Backend with Python, Automation, AI, and Nodejs. I love creating a project from scratch. Let's create one together!
+
+
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-j%C3%BAnior-a17542218/)
 
