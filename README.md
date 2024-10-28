@@ -1,6 +1,6 @@
 ## Hi there 👋🏿
 
-I am a systems developer with experience in Frontend with Angular, Bootstrap, Figma and Backend with Python, Automation, AI, and Nodejs. I love creating a project from scratch. Let's create one together!
+I am a systems developer with experience Backend with Python, Automation, AI, and Nodejs and Frontend with Angular, Bootstrap and Figma. I love creating a project from scratch. Let's create one together!
 
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
@@ -23,11 +23,11 @@ I'm passionate about technology, education and changing people's lives through p
 
 ## MY PROJECTS
 
-- [My Portfolio](https://img.shields.io/badge/https://https://portifolio-project-teal.vercel.app//portifolio-project-teal.vercel.app/)
+- [My Portfolio](https://portifolio-project-8nbf6ux0u-mauricios-projects-36d609dc.vercel.app)
 
-- [FrontEnd Personal Profile](https://img.shields.io/badge/https://hhttps://mauriciojunior.vercel.app//https://mauriciojunior.vercel.app//portifolio-project-teal.vercel.app/)
+- [FrontEnd Personal Profile](https://mauriciojunior-3rdq76ezi-mauricios-projects-36d609dc.vercel.app)
 
-- [GD Conceição Business Website Ltda](https://img.shields.io/badge/https://www.gdconceicao.com/)](https://www.lhttps://www.gdconceicao.com/)
+- [GD Conceição Business Website Ltda](https://www.gdconceicao.com)
 
 
 
