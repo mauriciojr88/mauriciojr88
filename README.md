@@ -1,4 +1,4 @@
-## Hi there 👋🏿
+## Hi there 👋
 
 I am a systems developer with experience Backend with Python, Automation, AI, and Nodejs and Frontend with Angular, Bootstrap and Figma. I love creating a project from scratch. Let's create one together!
 
