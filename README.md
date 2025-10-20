@@ -15,6 +15,7 @@ I am a Software Developer with solid hands-on experience in Java, Python, and Ty
 <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-F7JG1E?style=for-the-badge&logo=aws&logoColor=black">
 <img align="center" alt="Angular" src="https://img.shields.io/badge/angular%20-0188CC?style=for-the-badge&logo=angular&logoColor=white">
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-009ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="center" alt="RestAPI" src="https://img.shields.io/badge/RestAPI-012ACC?style=for-the-badge&logo=restapi&logoColor=white">
