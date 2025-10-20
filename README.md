@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a systems developer with experience Backend with Python, Automation, AI, and Nodejs and Frontend with Angular, Bootstrap and Figma. I love creating a project from scratch. Let's create one together!
+I am a Software Developer with solid hands-on experience in Java, Python, and TypeScript, focusing on building RESTful APIs, process automation, and system integration. Skilled with Spring Boot, Django, Angular, and Node.js, and experienced in DevOps practices using AWS, Azure, CI/CD, and Docker. I love bringing ideas to life from scratch — let’s build something great together!
 
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
