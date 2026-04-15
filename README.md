@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I am a Software Developer with solid hands-on experience in Java, Python, and TypeScript, focusing on building RESTful APIs, process automation, and system integration. Skilled with Spring Boot, Django, Angular, and Node.js, and experienced in DevOps practices using AWS, Azure, CI/CD, and Docker. I love bringing ideas to life from scratch — let’s build something great together!
+I work in the development and architecture of the A1Control software, being responsible for designing robust solutions aimed at integration with industrial systems. I perform detailed analysis of COMOS data models and structures, ensuring consistency and reliability of information.
+
+My focus is on mapping requirements and control structures for industrial platforms (DCS and SCADA), as well as developing data conversion and translation cores and diagrams to native controller formats.
+
+I also work on the implementation of APIs for bidirectional integration between systems, ensuring efficient communication between engineering and automation. I develop specific modules for each controller manufacturer, with an emphasis on scalability, compatibility, and standardization.
 
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
