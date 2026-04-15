@@ -21,9 +21,9 @@ I also work on the implementation of APIs for bidirectional integration between 
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-F7JG1E?style=for-the-badge&logo=aws&logoColor=black">
 <img align="center" alt="Angular" src="https://img.shields.io/badge/angular%20-0188CC?style=for-the-badge&logo=angular&logoColor=white">
-<img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-009ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-009ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="center" alt="RestAPI" src="https://img.shields.io/badge/RestAPI-012ACC?style=for-the-badge&logo=restapi&logoColor=white">
-<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="center" alt="COMOS system" src="https://img.shields.io/badge/COMOS system-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br/>
 
 I'm passionate about technology, education and changing people's lives through programming.
